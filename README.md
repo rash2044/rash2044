@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rash2044
-- 👀 I’m interested in Python Software development.
+- 👀 I’m interested in Python Software development and Embedded C programming.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python learning.
 - 📫 How to reach me: message me in this profile...
